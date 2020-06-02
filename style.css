@@ -1,18 +1,16 @@
 /* style.css */
 body{
-  background: rgb(245,245,245);
+  background: rgb(250,254,255);
   color: teal;
-  font-size: 12px;
-  font-family: Helvetica;
+  font-size: 16px;
+font-family: 'Roboto Mono', monospace;
 }
 h1{
-  font-family: Courier;
   color: olive;
   font-weight: lighter;
   font-size: 25px;
 }
 h2 {
-  font-family: Courier;
   color: olive;
   font-weight: lighter;
   font-size: 20px;
@@ -23,4 +21,11 @@ a {
 a:hover {
   text-decoration: none;
   color: aqua;
+}
+#baseline h1 p{
+  color: red;
+}
+.blue-title{
+  color:rgb(35,115,225);
+  font-size :40px;
 }
