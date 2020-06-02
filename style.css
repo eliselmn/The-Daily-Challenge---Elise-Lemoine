@@ -1,0 +1,26 @@
+/* style.css */
+body{
+  background: rgb(245,245,245);
+  color: teal;
+  font-size: 12px;
+  font-family: Helvetica;
+}
+h1{
+  font-family: Courier;
+  color: olive;
+  font-weight: lighter;
+  font-size: 25px;
+}
+h2 {
+  font-family: Courier;
+  color: olive;
+  font-weight: lighter;
+  font-size: 20px;
+}
+a {
+  color: purple;
+}
+a:hover {
+  text-decoration: none;
+  color: aqua;
+}
